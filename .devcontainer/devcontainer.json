@@ -1,0 +1,13 @@
+// For format details, see https://aka.ms/devcontainer.json.
+{
+	"name": "PGE 323M Assignment 6",
+	"image": "ghcr.io/pge323m/assignment6/python-devcontainer:latest",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-python.python",
+				"GitHub.copilot"
+			]
+		}
+	}
+}
